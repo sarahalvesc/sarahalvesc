@@ -14,4 +14,8 @@ Além disso você pode se deparar com alguns projetos desenvolvidos durante a mi
 
 P.S.: Esta cobra é alimentada por commits, minha meta é não deixá-la morrer de fome!
 
-<div>![Snake animation](https://github.com/sarahalvesc/sarahalvesc/blob/output/github-contribution-grid-snake.svg)</div>
+<div>
+
+![Snake animation](https://github.com/sarahalvesc/sarahalvesc/blob/output/github-contribution-grid-snake.svg)
+
+</div>
