@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, seja bem-vindo!
 
-<!--
-**sarahalvesc/sarahalvesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sarah, tenho 21 anos e estou terminando minha graduação em Engenharia de Software! 
 
-Here are some ideas to get you started:
+Aqui nesse github você pode encontrar alguns projetos pessoas da minha área de interesse, a amada *Qualidade de Software*!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além disso você pode se deparar com alguns projetos desenvolvidos durante a minha graduação, fiquei a vontade para me contactar, deixo aqui alguns meios de fazer isso:
+
+<div> 
+  <a href="https://www.instagram.com/sarahalveschagas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sarahalveschagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/sarah-alves-chagas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+P.S.: Esta cobra é alimentada por commits, minha meta é não deixá-la morrer de fome!
+
+
+![Snake animation](https://github.com/sarahalvesc/sarahalvesc/blob/output/github-contribution-grid-snake.svg)
