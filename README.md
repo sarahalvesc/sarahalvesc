@@ -1,8 +1,8 @@
-### Olá, seja bem-vindo!
+### Olá, seja bem-vind@!
 
-Meu nome é Sarah, tenho 21 anos e estou terminando minha graduação em Engenharia de Software! 
+Meu nome é Sarah, tenho 23 anos e sou graduada em Engenharia de Software! 
 
-Aqui nesse github você pode encontrar alguns projetos pessoas da minha área de interesse, a amada *Qualidade de Software*!
+Aqui nesse github você pode encontrar alguns projetos pessoas das minhas áreas de interesse!
 
 Além disso você pode se deparar com alguns projetos desenvolvidos durante a minha graduação, fiquei a vontade para me contactar, deixo aqui alguns meios de fazer isso:
 
